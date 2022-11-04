@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFU-Lesson-8", "KFU-Lesson-8\KFU-Lesson-8.csproj", "{DE839E45-25AA-40F8-BA84-7C3701547A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79F4661-A35D-4E24-B2B0-A4F810A8CA7C}
+	EndGlobalSection
+EndGlobal
