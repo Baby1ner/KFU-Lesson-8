@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFU-Lesson-8", "KFU-Lesson-8\KFU-Lesson-8.csproj", "{DE839E45-25AA-40F8-BA84-7C3701547A05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T00Much", "T00Much\T00Much.csproj", "{6B763461-E4C7-4957-9290-12F370C9200E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE839E45-25AA-40F8-BA84-7C3701547A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B763461-E4C7-4957-9290-12F370C9200E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B763461-E4C7-4957-9290-12F370C9200E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B763461-E4C7-4957-9290-12F370C9200E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B763461-E4C7-4957-9290-12F370C9200E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
